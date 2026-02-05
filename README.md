@@ -36,6 +36,21 @@ This module showcases:
 - Bias and hallucination mitigation
 - Instructional AI content development
 
+---
+
+## 🏥 Featured Project: Applied AI in Healthcare
+
+Demonstrates integration of prompt engineering with structured clinical data extraction and evaluation frameworks.
+
+👉 [View Applied AI + Healthcare Example](./ai_healthcare_prompt_example)
+
+This project showcases:
+- Healthcare-aware prompt design
+- Structured JSON extraction
+- Python-based evaluation logic
+- AI hallucination mitigation strategies
+- Applied AI model validation principles
+
 
 # 📊 1. Cardiovascular Risk Prediction (Framingham Study)
 
