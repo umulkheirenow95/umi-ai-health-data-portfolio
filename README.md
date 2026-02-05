@@ -1,9 +1,11 @@
 
-# 🧠 Umi Gulia – AI, Healthcare Data & Bioinformatics Portfolio
+# 🧠 Umi Gulia | Applied AI & Healthcare Data Science Portfolio
 
 Healthcare Data Scientist | Clinical Informatics Analyst | AI & Prompt Engineering Practitioner  
 
 M.S. Bioinformatics & Data Science (GPA: 4.0)
+
+Bridging applied AI, LLM evaluation, and healthcare data science through structured modeling, prompt engineering, and reproducible analytics workflows.
 
 ---
 
@@ -23,6 +25,16 @@ This portfolio demonstrates applied analytics across:
 - AI prompt engineering & model evaluation  
 
 ---
+
+## 🎯 Core Focus Areas
+
+- Applied AI & Prompt Engineering  
+- LLM Evaluation & Model Validation  
+- Healthcare Risk Modeling  
+- Clinical Data Structuring & Compliance Analytics  
+- Bioinformatics & Genomic Modeling  
+
+
 
 ## 🤖 Featured Project: AI Trainer Demonstration Module
 
