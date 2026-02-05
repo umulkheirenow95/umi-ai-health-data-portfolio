@@ -24,6 +24,19 @@ This portfolio demonstrates applied analytics across:
 
 ---
 
+## 🤖 Featured Project: AI Trainer Demonstration Module
+
+Designed to simulate real-world AI instruction and full-cycle prompt engineering workflows.
+
+👉 [View AI Trainer Demonstration Module](./ai_trainer_demonstration)
+
+This module showcases:
+- Full prompt lifecycle design
+- Structured evaluation frameworks
+- Bias and hallucination mitigation
+- Instructional AI content development
+
+
 # 📊 1. Cardiovascular Risk Prediction (Framingham Study)
 
 ## Objective
